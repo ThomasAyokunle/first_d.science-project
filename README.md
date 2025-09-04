@@ -28,14 +28,14 @@ This project develops a comprehensive ML pipeline that predicts loan default pro
 **Deployment**: Streamlit, Joblib
 **Data Processing**: SMOTE, StandardScaler, OneHotEncoder
 
-## 📈 Business Impact
+## Business Impact
 
 - **Risk Reduction**: Identify high-risk applications before approval
 - **Portfolio Management**: Monitor existing loan portfolio health  
 - **Dynamic Pricing**: Adjust interest rates based on predicted risk
 - **Resource Optimization**: Focus collection efforts on high-risk accounts
 
-## 🎯 Model Performance
+## Model Performance
 
 **Training Results:**
 - Accuracy: 78.6%
