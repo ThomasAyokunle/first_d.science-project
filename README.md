@@ -21,7 +21,7 @@ This project develops a comprehensive ML pipeline that predicts loan default pro
 - **Key Risk Factors**: Loan-to-income ratio, customer age, interest fees
 - **Data Handling**: SMOTE for class imbalance, robust preprocessing pipeline
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 **Machine Learning**: Python, Scikit-learn, LightGBM, XGBoost, Pandas, NumPy
 **Visualization**: Power BI, Matplotlib, Seaborn  
@@ -48,7 +48,7 @@ This project develops a comprehensive ML pipeline that predicts loan default pro
 - Recall: 69.5%
 - F1-Score: 41.6%
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Explore the Analysis
 # Open the Jupyter notebook
